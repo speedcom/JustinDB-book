@@ -1,2 +1,2 @@
-# JustinDB-book
+# JustinDB - distributed database
 
