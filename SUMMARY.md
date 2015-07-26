@@ -7,7 +7,6 @@
        * Partitioning
        * Problems with traditional solutions
        * NoSQL to the rescue
-   * EVENTUAL CONSISTENCY
    * Case study
        * CAP
        * BASE
