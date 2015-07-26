@@ -1,2 +1,1 @@
-# JustinDB - distributed database
-
+Introduction
