@@ -9,6 +9,7 @@
        * NoSQL to the rescue
    * EVENTUAL CONSISTENCY
    * Case study
+       * CAP
 * Practice
 * Conclusion
 
