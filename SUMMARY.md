@@ -10,6 +10,7 @@
    * CAP
    * BASE
    * EVENTUAL CONSISTENCY
+   * Case study
 * Practice
 * Conclusion
 
