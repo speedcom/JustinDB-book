@@ -1,12 +1,7 @@
 # Introduction
 
-// Czy dac tutaj wstep o tym:
-// dlaczego NoSQL
-// co to jest ruch NoSQL
-
 1. Goal of the book
 2. The structure of the book
-
 
 ### Goal of the book
 
@@ -20,4 +15,4 @@ The following book consists of 3 main parts:
 
 1. Theory - basic concepts and problems that NoSQL databases want to solve
 2. Practice - JustinDB as an exemplary implementation of Distributed Database
-4. Conclusion
+3. Conclusion
