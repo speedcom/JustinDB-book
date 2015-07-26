@@ -8,4 +8,5 @@
        * Problems with traditional solutions
        * NoSQL to the rescue
    * CAP
+   * BASE
 
