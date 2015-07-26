@@ -10,4 +10,5 @@
    * CAP
    * BASE
    * EVENTUAL CONSISTENCY
+* Practice
 
