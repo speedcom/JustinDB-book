@@ -8,7 +8,7 @@
        * Problems with traditional solutions
        * NoSQL to the rescue
    * Case study
-       * CAP
+       * CAP theory
        * BASE
        * Eventual Consistency
        * Map Reduce
