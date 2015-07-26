@@ -6,4 +6,5 @@
        * Replication
        * Partitioning
        * Problems with traditional solutions
+       * NoSQL to the rescue
 
