@@ -11,6 +11,7 @@
        * CAP
        * BASE
        * EVENTUAL CONSISTENCY
+       * Map Reduce
 * Practice
 * Conclusion
 
