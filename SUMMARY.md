@@ -10,7 +10,7 @@
    * Case study
        * CAP
        * BASE
-       * EVENTUAL CONSISTENCY
+       * Eventual Consistency
        * Map Reduce
 * Practice
 * Conclusion
