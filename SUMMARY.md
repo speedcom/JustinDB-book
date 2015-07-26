@@ -11,5 +11,5 @@
    * BASE
    * EVENTUAL CONSISTENCY
 * Practice
-* Concusion
+* Conclusion
 
