@@ -5,4 +5,5 @@
    * Scalability
        * Replication
        * Partitioning
+       * Problems with traditional solutions
 
