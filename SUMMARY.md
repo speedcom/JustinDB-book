@@ -9,4 +9,5 @@
        * NoSQL to the rescue
    * CAP
    * BASE
+   * EVENTUAL CONSISTENCY
 
