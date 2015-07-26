@@ -13,6 +13,8 @@
 
 ### The structure of the book
 
-1. Basic concepts and problems that NoSQL databases want to solve
-2. JustinDB - implementation of Distributed Database
+The following book consists of 3 main parts:
+
+1. Theory - basic concepts and problems that NoSQL databases want to solve
+2. Practice - JustinDB as an exemplary implementation of Distributed Database
 4. Conclusion
