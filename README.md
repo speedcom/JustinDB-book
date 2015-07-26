@@ -1,5 +1,8 @@
 # Introduction
 
+// Czy dac tutaj wstep o tym:
+// dlaczego NoSQL
+// co to jest ruch NoSQL
 
 1. Goal of the book
 2. The structure of the book
