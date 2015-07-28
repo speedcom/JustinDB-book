@@ -7,9 +7,11 @@
        * Partitioning
        * Problems with traditional solutions
        * NoSQL to the rescue
-   * BASE
-   * EVENTUAL CONSISTENCY
-   * CAP
+   * Case study
+       * CAP theory
+       * BASE
+       * Eventual Consistency
+       * Map Reduce
 * Practice
 * Conclusion
 
