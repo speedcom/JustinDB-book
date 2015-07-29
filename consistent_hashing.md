@@ -1,1 +1,2 @@
-# Consistent Hashing
+# Consistent Hashing - Partitioning
+
