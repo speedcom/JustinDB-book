@@ -10,7 +10,7 @@
 
 2. Practice! We will implement our own Distributed Database which will be built on the basis of mentioned algorithms using **Scala** and **Akka**.
 
-### The structure of the book
+### The structure of the book // need to be change
 
 The following book consists of 3 main parts:
 
