@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Practice
-* JustinDB - distributed database
+* [JustinDB - distributed database](justindb_-_distributed_database.md)
 
