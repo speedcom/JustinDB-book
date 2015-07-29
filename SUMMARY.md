@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Practice
-* Conclusion
+* JustinDB - distributed database
 
