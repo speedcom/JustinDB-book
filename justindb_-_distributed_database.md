@@ -29,6 +29,3 @@ Persistence:
 Technology:
 * Scala 
 * Akka
-
-Repository:
-[GitHub](https://github.com/speedcom/JustinDB)
