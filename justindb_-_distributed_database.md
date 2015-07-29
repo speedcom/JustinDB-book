@@ -11,7 +11,7 @@ HLA:
 Data model:
 * Key-Value
 
-Algorithms/Concepts:
+Techniques:
 * partitioning (Consistent Hashing)
 * replication
 * data synchronization (Merkle Trees)
