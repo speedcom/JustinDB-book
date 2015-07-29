@@ -1,6 +1,12 @@
 # JustinDB
 
-### HLA - Foundation
+### Foundation
+
+HLA:
+* decentralized - each node is equal to other
+* symmetry - every node has the same responsibility
+* easy to scale out - addition of new node shouldn't take a lot effort on the whole system
+* heterogeneous - proper delegation of work to nodes with different power
 
 Data model:
 * Key-Value
@@ -9,7 +15,7 @@ Algorithms/Concepts:
 * partitioning (Consistent Hashing)
 * replication
 * data synchronization (Merkle Trees)
-* records versioning (Vector Clocks)
+* versioning records (Vector Clocks)
 * failured detection (Hinted Handoff)
 
 Communication protocol:
