@@ -15,3 +15,5 @@ Basic variant has a number of disadvantages. One of it is potentially not fair d
 [second version - rys. 3.3]
 
 In third version of algorithm keys space is divided in advance to a predetermined number of intervals S. Generally this number is much higher that overall number of system nodes N (S >> N). We assign random interval to next node and in the same time make sure that every has S/N. Thanks do that records that belongs do different intervals might have to be persisted in other files. In case of the addition new node to the system we are able to just migrate the file without unnecessary traversal of keys within node.
+
+[third version - rys. 3.4]
