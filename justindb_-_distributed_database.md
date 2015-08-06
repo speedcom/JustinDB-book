@@ -16,6 +16,7 @@ The following specification is the recipe for our database. We will try to meet 
 * versioning records (Vector Clocks)
 * data synchronization (Merkle Trees)
 * failured detection (Hinted Handoff)
+* persistence 
 
 **Data model:**
 * Key-Value
