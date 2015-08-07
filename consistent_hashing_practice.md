@@ -39,15 +39,15 @@ class RingTest extends FlatSpec with Matchers {
     val nodeHash2 = "500"
     ring = Ring.addNode(ring, nodeHash2, node2)
 
-    Ring.getNode(ring, hash = "-1").get shouldBe node
-    Ring.getNode(ring, hash = "0").get shouldBe node
-    Ring.getNode(ring, hash = "99").get shouldBe node
-    Ring.getNode(ring, hash = "100").get shouldBe node
-    Ring.getNode(ring, hash = "101").get shouldBe node2
-    Ring.getNode(ring, hash = "300").get shouldBe node2
-    Ring.getNode(ring, hash = "499").get shouldBe node2
-    Ring.getNode(ring, hash = "500").get shouldBe node2
-    Ring.getNode(ring, hash = "550").get shouldBe node
+    Ring.getNode(ring, hash = "-1").get   shouldBe node
+    Ring.getNode(ring, hash = "0").get    shouldBe node
+    Ring.getNode(ring, hash = "99").get   shouldBe node
+    Ring.getNode(ring, hash = "100").get  shouldBe node
+    Ring.getNode(ring, hash = "101").get  shouldBe node2
+    Ring.getNode(ring, hash = "300").get  shouldBe node2
+    Ring.getNode(ring, hash = "499").get  shouldBe node2
+    Ring.getNode(ring, hash = "500").get  shouldBe node2
+    Ring.getNode(ring, hash = "550").get  shouldBe node
     Ring.getNode(ring, hash = "9000").get shouldBe node
   }
 
